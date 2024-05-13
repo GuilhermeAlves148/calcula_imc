@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style-type: none;
+    background-color: #fafafa;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.title {
+    padding-top: 32px;
+    padding-bottom: 16px;
+}
+
+.topic {
+    padding-left: 16px;
+    display: inline-flex;
+    padding-bottom: 16px;
+}
+
+.placeholder {
+    padding-right: 16px;
+}
